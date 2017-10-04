@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Знайдена нижча ціна!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Найвигідніша пропозиція!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Зекономте %s %s на %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Наступна пропозиція %s на %s"
+  },
+  "safeShopOffers": {
+    "message": "%s пропозицій від %s"
+  },
+  "sasShippingLabel": {
+    "message": "Доставка від"
+  },
+  "sasHintBestOffer": {
+    "message": "Найвигідніша пропозиція"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Перехід напряму до найкращої ціни на цей продукт."
+  },
+  "sasHintOtherOffers": {
+    "message": "Порівняння цін"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Переглянути інші аналогічні пропозиції"
+  },
+  "sasHintSettings": {
+    "message": "Налаштування"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Налаштуйте свої параметри тут"
+  },
+  "sasPromoNewBadge": {
+    "message": "Новинка"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "Функція SafePrice знаходить найвигідніші пропозиції продукту, який вам потрібен. Перевірка цін, порівняння магазинів, перегляд оглядів, перевірка репутації продавця, перегляд відеороликів про продукт, а також отримання купонів на знижки прямо через веб-браузер."
+  },
+  "sasPromoAction": {
+    "message": "Чудово, закрити це повідомлення"
+  },
+  "sasPromoOptout": {
+    "message": "Вимкнути SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Ніколи не показувати купони на %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Вимкнути функцію SafePrice на %s на 24 години"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Вимкнути функцію SafePrice на всіх сайтах на 24 години"
+  },
+  "safeShopCoupons": {
+    "message": "Купонів: %s"
+  },
+  "sasHintCoupons": {
+    "message": "Переглянути купони"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Переглянути купони та зекономити кошти"
+  },
+  "sasCouponsTitle": {
+    "message": "Доступно купонів: %s!"
+  },
+  "sasCouponsSaving": {
+    "message": "Зекономте до %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Код купону"
+  },
+  "sasClickToCopy": {
+    "message": "Клацніть, щоб зкопіювати"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Інструкції з використання купону"
+  },
+  "sasNoCouponCode": {
+    "message": "Код не потрібен"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Код скопійовано до буферу обміну."
+  }
+}

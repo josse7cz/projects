@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Daha düşük fiyat bulundu!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "İşte en iyi teklif!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Tasarruf edin: %s %s %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Sonraki teklif %s %s'da"
+  },
+  "safeShopOffers": {
+    "message": "%s teklif, başlangıç fiyatı %s"
+  },
+  "sasShippingLabel": {
+    "message": "Kargo ücreti"
+  },
+  "sasHintBestOffer": {
+    "message": "En iyi teklif"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Doğrudan bu ürüne ait en iyi fiyata git."
+  },
+  "sasHintOtherOffers": {
+    "message": "Fiyatları karşılaştır"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Diğer karşılaştırılabilir teklifleri inceleyin"
+  },
+  "sasHintSettings": {
+    "message": "Ayarlar"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Ayarlarınızı buradan kişiselleştirin"
+  },
+  "sasPromoNewBadge": {
+    "message": "Yeni"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice istediğiniz ürüne ait en iyi fiyatı bulur. Web tarayıcınızın kolaylığıyla fiyatları kontrol edin, mağazaları karşılaştırın, kullanıcı yorumlarını okuyun, satıcının güvenilirliğini teyit edin, ürün videolarını seyredin ve kuponlar edinin."
+  },
+  "sasPromoAction": {
+    "message": "İyi fikir, bu mesajı kapat"
+  },
+  "sasPromoOptout": {
+    "message": "SafePrice'ı devre dışı bırak"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "%s sitesinden asla kupon gösterme"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "%s sitesinde SafePrice'ı 24 saatliğine kapatın"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Tüm sitelerde SafePrice'ı 24 saatliğine kapatın"
+  },
+  "safeShopCoupons": {
+    "message": "%s kupon"
+  },
+  "sasHintCoupons": {
+    "message": "Kuponları göster"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Kuponları göster& kaydet"
+  },
+  "sasCouponsTitle": {
+    "message": "%s kupon mevcut"
+  },
+  "sasCouponsSaving": {
+    "message": "%s kadar kazançlı çık"
+  },
+  "sasCouponCodeTitle": {
+    "message": "İndirim kuponu"
+  },
+  "sasClickToCopy": {
+    "message": "Kopyalamak için tıklayın"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Kuponu kullanmak için gerekli talimatlar"
+  },
+  "sasNoCouponCode": {
+    "message": "Kod gerekmiyor"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Kod panoya kopyalandı."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "נמצאו מחירים נמוכים יותר!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "ההצעה הטובה ביותר כאן!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "חסוך %s %s על %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "ההצעה הבאה  %s על %s"
+  },
+  "safeShopOffers": {
+    "message": "%s הצעות מתחילות ב-%s"
+  },
+  "sasShippingLabel": {
+    "message": "קניות/טיפול מ"
+  },
+  "sasHintBestOffer": {
+    "message": "ההצעה הטובה ביותר"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "לך ישר למחיר הטוב ביותר עבור המוצר הזה"
+  },
+  "sasHintOtherOffers": {
+    "message": "השווה מחירים"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "צפה בצעות ברות השוואה אחרות"
+  },
+  "sasHintSettings": {
+    "message": "הגדרות"
+  },
+  "sasHintSettingsDesc": {
+    "message": "התאם אישית את ההגדרות שלך כאן"
+  },
+  "sasPromoNewBadge": {
+    "message": "חדש"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice מוצא את העסקות הטובות ביותר עבור המוצרים המבוקשים. בודק מחירים, משווה חנויות, קורא סקירות לקוחות, מאמת מוניטין קמעונאי, צופה בסרטוני המוצר, ומשיג קופונים ישר לדפדפן הרשת שלך."
+  },
+  "sasPromoAction": {
+    "message": "נשמע טוב, סגור את ההודעה"
+  },
+  "sasPromoOptout": {
+    "message": "נטרל את  SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "אל תראה קופונים ב-%s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "נטרל את  SafePrice על  %s למשך 24 שעות"
+  },
+  "sasOptionsDisableAll": {
+    "message": "נטרל את  SafePrice בכל האתרים למשך 24 שעות"
+  },
+  "safeShopCoupons": {
+    "message": "%s שוברים"
+  },
+  "sasHintCoupons": {
+    "message": "הצג שוברים"
+  },
+  "sasHintCouponsDesc": {
+    "message": "הצג שוברים ושמור"
+  },
+  "sasCouponsTitle": {
+    "message": "%s שוברים זמינים!"
+  },
+  "sasCouponsSaving": {
+    "message": "חסוך עד %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "קוד שובר"
+  },
+  "sasClickToCopy": {
+    "message": "לחץ כדי להעתיק"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "הוראות למימוש השובר"
+  },
+  "sasNoCouponCode": {
+    "message": "לא נדרש קוד"
+  },
+  "sasCouponCodeCopied": {
+    "message": "הקוד הועתק ללוח."
+  }
+}

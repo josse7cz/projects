@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Harga yang lebih rendah ditemui!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Tawaran terbaik di sini!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Jimat %s %s di %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Tawaran seterusnya %s di %s"
+  },
+  "safeShopOffers": {
+    "message": "%s tawaran bermula dari %s"
+  },
+  "sasShippingLabel": {
+    "message": "P/P dari"
+  },
+  "sasHintBestOffer": {
+    "message": "Tawaran terbaik"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Pergi terus ke harga terbaik untuk produk ini."
+  },
+  "sasHintOtherOffers": {
+    "message": "Bandingkan harga"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Lihat tawaran lain yang boleh dibandingkan"
+  },
+  "sasHintSettings": {
+    "message": "Tetapan"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Suaikan tetapan anda di sini"
+  },
+  "sasPromoNewBadge": {
+    "message": "Baharu"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice mencari tawaran terbaik untuk produk yang anda inginkan. Semak harga, bandingkan kedai, baca ulasan pelanggan, sahkan reputasi peruncit, tonton video produk dan dapatkan kupon terus di pelayar web anda."
+  },
+  "sasPromoAction": {
+    "message": "Mungkin bagus, tutup mesej ini"
+  },
+  "sasPromoOptout": {
+    "message": "Nyahdayakan SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Jangan tunjukkan kupon di %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Nyahdayakan SafePrice di %s selama 24 jam"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Nyahdayakan SafePrice di semua laman web selama 24 jam"
+  },
+  "safeShopCoupons": {
+    "message": "%s kupon"
+  },
+  "sasHintCoupons": {
+    "message": "Lihat kupon"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Lihat kupon & jimat"
+  },
+  "sasCouponsTitle": {
+    "message": "%s kupon tersedia!"
+  },
+  "sasCouponsSaving": {
+    "message": "Jimat sehingga %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Kod kupon"
+  },
+  "sasClickToCopy": {
+    "message": "Klik untuk menyalin"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Arahan untuk menebus kupon"
+  },
+  "sasNoCouponCode": {
+    "message": "Tiada kod yang diperlukan"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Kod disalin ke papan klip."
+  }
+}

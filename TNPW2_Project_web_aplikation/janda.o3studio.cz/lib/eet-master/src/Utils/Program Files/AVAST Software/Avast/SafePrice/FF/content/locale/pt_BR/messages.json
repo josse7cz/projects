@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Preços mais baixos encontrados!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "A melhor oferta está aqui!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Poupe %s %s em %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Próxima oferta a %s em %s"
+  },
+  "safeShopOffers": {
+    "message": "%s ofertas começando por %s"
+  },
+  "sasShippingLabel": {
+    "message": "Frete por"
+  },
+  "sasHintBestOffer": {
+    "message": "Melhor oferta"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Ir diretamente ao melhor preço para este produto."
+  },
+  "sasHintOtherOffers": {
+    "message": "Comparar preços"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Ver outras ofertas semelhantes"
+  },
+  "sasHintSettings": {
+    "message": "Configurações"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Personalizar as suas configurações aqui"
+  },
+  "sasPromoNewBadge": {
+    "message": "Novo"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "O SafePrice encontra as melhores ofertas para os produtos que você deseja. Verifique preços, compare lojas, leia comentários dos clientes, verifique a reputação do vendedor, assista a vídeos do produto e ganhe cupons diretamente no seu navegador da internet."
+  },
+  "sasPromoAction": {
+    "message": "Parece bom, feche esta mensagem"
+  },
+  "sasPromoOptout": {
+    "message": "Desativar o SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Nunca mostre cupons em %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Desativar o SafePrice em %s por 24 horas"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Desativar o SafePrice em todos os sites por 24 horas"
+  },
+  "safeShopCoupons": {
+    "message": "%s cupom(ns)"
+  },
+  "sasHintCoupons": {
+    "message": "Ver cupons"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Ver e salvar cupons"
+  },
+  "sasCouponsTitle": {
+    "message": "%s cupom(ns) disponível(s)!"
+  },
+  "sasCouponsSaving": {
+    "message": "Poupar até %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Código do cupom"
+  },
+  "sasClickToCopy": {
+    "message": "Clique para copiar"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Instruções para utilizar o cupom"
+  },
+  "sasNoCouponCode": {
+    "message": "Nenhum tíquete é necessário"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Tíquete copiado para a área de transferência."
+  }
+}

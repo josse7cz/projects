@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Es wurden niedrigere Preise gefunden!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Hier ist das beste Angebot!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Sparen Sie %s %s auf %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Nächstes Angebot %s auf %s"
+  },
+  "safeShopOffers": {
+    "message": "%s Angebote ab %s"
+  },
+  "sasShippingLabel": {
+    "message": "Versand- & Bearbeitungskosten ab"
+  },
+  "sasHintBestOffer": {
+    "message": "Bestes Angebot"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Direkt zum besten Preis für dieses Produkt wechseln."
+  },
+  "sasHintOtherOffers": {
+    "message": "Vergleiche Preise"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Andere vergleichbare Angebote ansehen"
+  },
+  "sasHintSettings": {
+    "message": "Einstellungen"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Passen Sie die Einstellungen hier an"
+  },
+  "sasPromoNewBadge": {
+    "message": "Neu"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice findet für Sie die besten Angebote für das von Ihnen gewünschte Produkt. Sie können hiermit Preise überprüfen, Shops vergleichen, Kundenbewertungen lesen, Produktvideos ansehen und erhalten Gutscheine direkt in Ihrem Internetbrowser."
+  },
+  "sasPromoAction": {
+    "message": "Klingt gut, diese Nachricht schließen!"
+  },
+  "sasPromoOptout": {
+    "message": "SafePrice ausschalten"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Niemals Gutscheine anzeigen auf %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "SafePrice auf %s für 24 Stunden ausschalten"
+  },
+  "sasOptionsDisableAll": {
+    "message": "SafePrice auf allen Webseiten für 24 Stunden ausschalten"
+  },
+  "safeShopCoupons": {
+    "message": "%s Gutscheine"
+  },
+  "sasHintCoupons": {
+    "message": "Gutscheine anzeigen"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Gutscheine anzeigen & sichern"
+  },
+  "sasCouponsTitle": {
+    "message": "%s Gutscheine verfügbar!"
+  },
+  "sasCouponsSaving": {
+    "message": "Bis zu %s sparen"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Gutscheincode"
+  },
+  "sasClickToCopy": {
+    "message": "Zum Kopieren klicken"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Anleitung zum Einlösen des Gutscheins"
+  },
+  "sasNoCouponCode": {
+    "message": "Kein Code erforderlich"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Code wurde in die Zwischenablage kopiert."
+  }
+}

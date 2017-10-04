@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "安値を発見！"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "おすすめはこちら！"
+  },
+  "safeShopBestButtonSave": {
+    "message": "%s %s を %s で節約"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "次安値 %s を %s で購入"
+  },
+  "safeShopOffers": {
+    "message": "%s 件のおすすめ (%s から)"
+  },
+  "sasShippingLabel": {
+    "message": "送料："
+  },
+  "sasHintBestOffer": {
+    "message": "一番のおすすめ"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "この商品の最安値に直接移動する"
+  },
+  "sasHintOtherOffers": {
+    "message": "価格を比較する"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "比較可能なおすすめを見る"
+  },
+  "sasHintSettings": {
+    "message": "設定"
+  },
+  "sasHintSettingsDesc": {
+    "message": "設定を変更できます"
+  },
+  "sasPromoNewBadge": {
+    "message": "New"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePriceにより、欲しい商品の最良の取引条件を検索できます。価格を比較したり、店を比べたり、レビューを読んだり、小売業者の評判を確認したり、商品の宣伝ビデオを見たり、クーポンをブラウザで受信したりできます。"
+  },
+  "sasPromoAction": {
+    "message": "はい、このメッセージを閉じます"
+  },
+  "sasPromoOptout": {
+    "message": "SafePrice を無効にする"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "以下のサイトのクーポンを表示しない：%s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "今後24時間、%s ではSafePriceを無効にする"
+  },
+  "sasOptionsDisableAll": {
+    "message": "今後24時間、すべてのサイトでSafePriceを無効にする"
+  },
+  "safeShopCoupons": {
+    "message": "%s つのクーポン"
+  },
+  "sasHintCoupons": {
+    "message": "クーポンを表示"
+  },
+  "sasHintCouponsDesc": {
+    "message": "クーポンの表示＆節約"
+  },
+  "sasCouponsTitle": {
+    "message": "%s つのクーポンが利用可能"
+  },
+  "sasCouponsSaving": {
+    "message": "%s を節約"
+  },
+  "sasCouponCodeTitle": {
+    "message": "クーポンコード"
+  },
+  "sasClickToCopy": {
+    "message": "クリックしてコピー"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "クーポンの利用方法について"
+  },
+  "sasNoCouponCode": {
+    "message": "割引クーポンは不要"
+  },
+  "sasCouponCodeCopied": {
+    "message": "割引クーポンをクリップボードにコピーしました。"
+  }
+}

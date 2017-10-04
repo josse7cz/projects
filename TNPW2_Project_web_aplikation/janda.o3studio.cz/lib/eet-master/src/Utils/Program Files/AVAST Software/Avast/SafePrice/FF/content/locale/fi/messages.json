@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Löydetty edullisempia hintoja!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Paras tarjous!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Säästä %s %s paikka: %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Seuraava tarjous %s paikka: %s"
+  },
+  "safeShopOffers": {
+    "message": "%s tarjousta, alkaen hinta: %s"
+  },
+  "sasShippingLabel": {
+    "message": "Postitus- ja käsittelykulut:"
+  },
+  "sasHintBestOffer": {
+    "message": "Paras tarjous"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Valitse suoraan tämän tuotteen paras hinta."
+  },
+  "sasHintOtherOffers": {
+    "message": "Vertaile hintoja"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Katso muut tarjoukset"
+  },
+  "sasHintSettings": {
+    "message": "Asetukset"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Mukauta asetuksesi"
+  },
+  "sasPromoNewBadge": {
+    "message": "Uusi"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice-toiminto etsii valitsemallesi tuotteelle edullisimman hinnan. Tämän toiminnon avulla voit esimerkiksi vertailla hintoja ja verkkokauppoja, lukea asiakkaiden arvosteluja ja katsella tuotteisiin liittyviä videoita."
+  },
+  "sasPromoAction": {
+    "message": "Kuulostaa hyvältä, sulje tämä viesti"
+  },
+  "sasPromoOptout": {
+    "message": "Kytke SafePrice pois päältä"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Älä koskaan näytä kuponkeja kohteessa %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Poista SafePrice -toiminto kohteesta %s seuraavaksi 24 tunniksi"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Ota SafePrice-toiminto kokonaan pois käytöstä seuraavaksi 24 tunniksi"
+  },
+  "safeShopCoupons": {
+    "message": "%s kuponkia"
+  },
+  "sasHintCoupons": {
+    "message": "Katso kupongit"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Katso kupongit ja säästä"
+  },
+  "sasCouponsTitle": {
+    "message": "%s kuponkia saatavilla!"
+  },
+  "sasCouponsSaving": {
+    "message": "Säästä jopa %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Kuponkikoodi"
+  },
+  "sasClickToCopy": {
+    "message": "Napsauta kopioidaksesi"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Kupongin käyttöohjeet"
+  },
+  "sasNoCouponCode": {
+    "message": "Koodia ei tarvita"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Koodi kopioitu leikepöydälle."
+  }
+}

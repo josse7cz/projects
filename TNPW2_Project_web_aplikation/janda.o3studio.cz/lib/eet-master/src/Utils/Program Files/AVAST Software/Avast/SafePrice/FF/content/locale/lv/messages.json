@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Atrastas zemākas cenas!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Vislabākais piedāvājums!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Ietaupiet %s %s vietnē %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Nākamais piedāvājums ir par %s vietnē %s"
+  },
+  "safeShopOffers": {
+    "message": "%s piedāvājumi, sākot no %s"
+  },
+  "sasShippingLabel": {
+    "message": "Sūtīšanas maksa no"
+  },
+  "sasHintBestOffer": {
+    "message": "Vislabākais piedāvājums"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Atvērt uzreiz šī produkta labākās cenas piedāvājumu."
+  },
+  "sasHintOtherOffers": {
+    "message": "Salīdzināt cenas"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Skatīt citus salīdzinājuma piedāvājumus"
+  },
+  "sasHintSettings": {
+    "message": "Iestatījumi"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Pielāgojiet savus iestatījumus šeit"
+  },
+  "sasPromoNewBadge": {
+    "message": "Jauna"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "Funkcija SafePrice atroad vislabākos jūsu meklētā produkta piedāvājumus. Pārbaudiet cenas, salīdziniet veikalus, lasiet klientu atsauksmes, pārbaudiet tirgotāju reputāciju, skatieties video par produktiem un saņemiet kuponus tīmekļa pārlūkā."
+  },
+  "sasPromoAction": {
+    "message": "Izklausās labi. Aizvērt šo ziņojumu."
+  },
+  "sasPromoOptout": {
+    "message": "Izslēgt SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Nekad nerādīt kuponus vietnē %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Izslēgt SafePrice vietnē %s uz 24 stundām"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Izslēgt SafePrice visās vietnēs uz 24 stundām"
+  },
+  "safeShopCoupons": {
+    "message": "%s kuponi"
+  },
+  "sasHintCoupons": {
+    "message": "Skatīt kuponus"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Skatīt un saglabāt kuponus"
+  },
+  "sasCouponsTitle": {
+    "message": "Ir pieejami %s kuponi!"
+  },
+  "sasCouponsSaving": {
+    "message": "Ietaupiet līdz pat %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Kupona kods"
+  },
+  "sasClickToCopy": {
+    "message": "Noklikšķiniet, lai nokopētu"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Kupona izmantošanas norādījumi"
+  },
+  "sasNoCouponCode": {
+    "message": "Kods nav nepieciešams"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Kods nokopēts uz starpliktuvi."
+  }
+}

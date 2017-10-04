@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Lavere priser funnet!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Beste tilbud her!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Spar %s %s på %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Neste tilbud %s på %s"
+  },
+  "safeShopOffers": {
+    "message": "%s tilbud fra %s"
+  },
+  "sasShippingLabel": {
+    "message": "Frakt og gebyrer fra"
+  },
+  "sasHintBestOffer": {
+    "message": "Beste tilbud"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Gå direkte til den beste prisen for dette produktet."
+  },
+  "sasHintOtherOffers": {
+    "message": "Sammenlign priser"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Se andre sammenlignbare tilbud"
+  },
+  "sasHintSettings": {
+    "message": "Innstillinger"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Tilpass innstillingene her"
+  },
+  "sasPromoNewBadge": {
+    "message": "Ny"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice finner de beste tilbudene for produktet. Sjekk prisene, sammenlign butikker, les anmeldelser fra kunder, se forhandleromdømme, se produktvideoer og få rabattkuponger rett i nettleseren."
+  },
+  "sasPromoAction": {
+    "message": "Høres bra ut. Lukk denne meldingen."
+  },
+  "sasPromoOptout": {
+    "message": "Deaktiver SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Vis aldri rabattkuponger på %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Deaktiver SafePrice på %s i 24 timer"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Deaktiver SafePrice på alle nettsteder i 24 timer"
+  },
+  "safeShopCoupons": {
+    "message": "%s rabattkuponger"
+  },
+  "sasHintCoupons": {
+    "message": "Vis rabattkuponger"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Vis rabattkuponger og lagre"
+  },
+  "sasCouponsTitle": {
+    "message": "%s rabattkuponger tilgjengelig!"
+  },
+  "sasCouponsSaving": {
+    "message": "Spar opptil %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Kupongkode"
+  },
+  "sasClickToCopy": {
+    "message": "Klikk for å kopiere"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Veiledning for å løse inn en kupong"
+  },
+  "sasNoCouponCode": {
+    "message": "Ingen kode er nødvendig"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Koden er kopiert til utklippstavlen."
+  }
+}

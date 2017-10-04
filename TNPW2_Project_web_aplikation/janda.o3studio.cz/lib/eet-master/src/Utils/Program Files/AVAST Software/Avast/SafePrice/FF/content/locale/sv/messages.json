@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Lägre priser hittades!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Här är bästa erbjudandet!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Spara %s %s på %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Nästa erbjudande %s på %s"
+  },
+  "safeShopOffers": {
+    "message": "%s erbjudanden startar på %s"
+  },
+  "sasShippingLabel": {
+    "message": "F&A från"
+  },
+  "sasHintBestOffer": {
+    "message": "Bästa erbjudandet"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Gå till bästa priset för denna produkt."
+  },
+  "sasHintOtherOffers": {
+    "message": "Jämför priser"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Se andra jämförbara erbjudanden"
+  },
+  "sasHintSettings": {
+    "message": "Inställningar"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Anpassa dina inställningar här"
+  },
+  "sasPromoNewBadge": {
+    "message": "Ny"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice hittar de bästa priserna för efterfrågad produkt. Kolla priser, jämför butiker, läs recensioner om produkten/butiken, se produktfilmer och få kuponger direkt i webbläsaren."
+  },
+  "sasPromoAction": {
+    "message": "Låter bra, stäng meddelandet"
+  },
+  "sasPromoOptout": {
+    "message": "Avaktivera SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Visa aldrig kuponger för %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Inaktivera SafePrice i 24 timmar på %s"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Inaktivera SafePrice i 24 timmar på alla webbplatser"
+  },
+  "safeShopCoupons": {
+    "message": "%s kuponger"
+  },
+  "sasHintCoupons": {
+    "message": "Visa kuponger"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Visa kuponger & spara"
+  },
+  "sasCouponsTitle": {
+    "message": "%s kuponger tillgängliga!"
+  },
+  "sasCouponsSaving": {
+    "message": "Spara upp till %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Kupongkod"
+  },
+  "sasClickToCopy": {
+    "message": "Klicka för att kopiera"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Instruktioner för att lösa in kupongen"
+  },
+  "sasNoCouponCode": {
+    "message": "Ingen kupong krävs"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Kupongkoden kopierad till Urklipp."
+  }
+}

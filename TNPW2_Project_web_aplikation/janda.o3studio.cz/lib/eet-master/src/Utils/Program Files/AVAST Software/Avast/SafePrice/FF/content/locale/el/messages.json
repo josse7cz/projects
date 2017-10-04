@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Βρέθηκαν χαμηλότερες τιμές!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Καλύτερη προσφορά εδώ!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Κερδίστε %s %s στο %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Επόμενη προσφορά %s στο %s"
+  },
+  "safeShopOffers": {
+    "message": "%s προσφορές ξεκινούν από %s"
+  },
+  "sasShippingLabel": {
+    "message": "Ε/Α από"
+  },
+  "sasHintBestOffer": {
+    "message": "Καλύτερη προσφορά"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Απευθείας μετάβαση στην καλύτερη τιμή για αυτό το προϊόν."
+  },
+  "sasHintOtherOffers": {
+    "message": "Σύγκριση τιμών"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Δείτε άλλες συγκρίσιμες προσφορές"
+  },
+  "sasHintSettings": {
+    "message": "Ρυθμίσεις"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Διαμορφώστε τις ρυθμίσεις σας εδώ"
+  },
+  "sasPromoNewBadge": {
+    "message": "Νέο"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "Το SafePrice βρίσκει τις καλύτερες προσφορές για το προϊόν που θέλετε. Ελέγξτε τιμές, συγκρίνετε καταστήματα, διαβάστε κριτικές πελατών, παρακολουθήστε βίντεο των προϊόντων και κατεβάστε κουπόνια στο πρόγραμμα περιήγησής σας."
+  },
+  "sasPromoAction": {
+    "message": "Καλό ακούγεται, να κλείσει αυτό το μήνημα"
+  },
+  "sasPromoOptout": {
+    "message": "Απενεργοποίηση SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Να μην εμφανίζονται ποτέ κουπόνια στο %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Απενεργοποιήστε το SafePrice στο %s για 24 ώρες"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Απενεργοποιήσετε το SafePrice σε όλες τις ιστοσελίδες για 24 ώρες"
+  },
+  "safeShopCoupons": {
+    "message": "%s κουπόνια"
+  },
+  "sasHintCoupons": {
+    "message": "Εμφάνιση κουπονιών"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Εμφάνιση κουπονιών & αποθήκευση"
+  },
+  "sasCouponsTitle": {
+    "message": "%s κουπόνια διαθέσιμα!"
+  },
+  "sasCouponsSaving": {
+    "message": "Κερδίστε έως και %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Κώδικας κουπονιού"
+  },
+  "sasClickToCopy": {
+    "message": "Κάντε κλικ για αντιγραφή"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Οδηγίες για να εξαργυρώσετε το κουπόνι"
+  },
+  "sasNoCouponCode": {
+    "message": "Δεν απαιτείται κωδικός έκπτωσης"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Ο κωδικός έκπτωσης έχει αντιγραφεί στο Πρόχειρο."
+  }
+}

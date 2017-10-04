@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Leiti odavamaid hindu!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Parim pakkumine on siin!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Säästa %s %s lehel %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Järgmine pakkumine %s lehel %s"
+  },
+  "safeShopOffers": {
+    "message": "%s pakkumist algavad %s"
+  },
+  "sasShippingLabel": {
+    "message": "K/K alates"
+  },
+  "sasHintBestOffer": {
+    "message": "Parim pakkumine"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Mine selle toote puhul otse parimale pakkumisele."
+  },
+  "sasHintOtherOffers": {
+    "message": "Võrdle hindu"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Vaata teisi sarnaseid pakkumisi"
+  },
+  "sasHintSettings": {
+    "message": "Seaded"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Muuda oma seadeid siin"
+  },
+  "sasPromoNewBadge": {
+    "message": "Uus"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice leiab parimad hinnad sinu soovitud tootele. Vaata hindu, võrdle poode, loe kasutajate kogemusi, kontrolli poe reputatsiooni, vaata tootevideosi ja saa kuponge - kõike seda veebibrauseri sees."
+  },
+  "sasPromoAction": {
+    "message": "Kõlab hästi, sulge see sõnum"
+  },
+  "sasPromoOptout": {
+    "message": "Lülita SafePrice välja"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Ära kunagi näita kuponge lehel %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Lülita SafePrice lehel %s 24 tunniks välja"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Lülita SafePrice kõikidel lehtedel 24 tunniks välja"
+  },
+  "safeShopCoupons": {
+    "message": "%s kupongi"
+  },
+  "sasHintCoupons": {
+    "message": "Vaata kuponge"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Vaata kuponge ja salvesta"
+  },
+  "sasCouponsTitle": {
+    "message": "%s kupongi on saadaval!"
+  },
+  "sasCouponsSaving": {
+    "message": "Säästa kuni %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Kupongi kood"
+  },
+  "sasClickToCopy": {
+    "message": "Kliki, et kopeerida"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Kupongi lunastamise instruktsioon"
+  },
+  "sasNoCouponCode": {
+    "message": "Koodi pole vaja"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Kood on lõikelauda kopeeritud."
+  }
+}

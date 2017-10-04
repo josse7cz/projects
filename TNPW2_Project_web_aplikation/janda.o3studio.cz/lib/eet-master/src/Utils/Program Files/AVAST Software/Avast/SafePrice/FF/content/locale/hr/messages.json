@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Pronađena je niža cijena!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Ovdje je najbolja ponuda!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Uštedite %s %s na %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Sljedeća ponuda %s na %s"
+  },
+  "safeShopOffers": {
+    "message": "%s ponuda počinje %s"
+  },
+  "sasShippingLabel": {
+    "message": "Dostava i rukovanje iz"
+  },
+  "sasHintBestOffer": {
+    "message": "Najbolja ponuda"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Idite izravno na najbolju cijenu za ovaj proizvod."
+  },
+  "sasHintOtherOffers": {
+    "message": "Usporedite cijene"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Pogledajte ostale usporedive ponude"
+  },
+  "sasHintSettings": {
+    "message": "Postavke"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Ovdje prilagodite svoje postavke"
+  },
+  "sasPromoNewBadge": {
+    "message": "Novo"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice pronalazi najbolje ponude za vaš željeni proizvod. Provjerite cijene, usporediti trgovine, pročitajte ocjene korisnika, provjerite ugled prodavača, pogledajte video proizvoda i dobite bonove izravno u internetskom pregledniku."
+  },
+  "sasPromoAction": {
+    "message": "Zvuči dobro, zatvori ovu poruku"
+  },
+  "sasPromoOptout": {
+    "message": "Onemogući SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Nikada ne pokazuj kupone na %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Onemogući SafePrice na %s na 24 sata"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Onemogući SafePrice na svim stranicama na 24 sata"
+  },
+  "safeShopCoupons": {
+    "message": "%s kupon(a)"
+  },
+  "sasHintCoupons": {
+    "message": "Vidi kupon(e)"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Vidi kupone & uštedi"
+  },
+  "sasCouponsTitle": {
+    "message": "%s kupon(a) na raspolaganju!"
+  },
+  "sasCouponsSaving": {
+    "message": "Uštedite i do %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Kôd kupona"
+  },
+  "sasClickToCopy": {
+    "message": "Kliknite za kopiranje"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Upute za otkup kupona"
+  },
+  "sasNoCouponCode": {
+    "message": "Nema potrebnog koda"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Kod je kopiran u međuspremnik."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "قیمت های پایین تری یافت شد!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "بهترین پیشنهاد در اینجا!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "صرفه جویی %s %s در %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "پیشنهاد بعدی %s در %s"
+  },
+  "safeShopOffers": {
+    "message": "%s پیشنهاد که آغاز می شود از %s"
+  },
+  "sasShippingLabel": {
+    "message": "هزینه ی ارسال/رسیدگی از"
+  },
+  "sasHintBestOffer": {
+    "message": "بهترین پیشنهاد"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "یکراست برو به سوی بهترین قیمت برای این محصول."
+  },
+  "sasHintOtherOffers": {
+    "message": "مقایسه ی قیمت ها"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "دیدن سایر پیشنهاد های قابل مقایسه"
+  },
+  "sasHintSettings": {
+    "message": "تنظیمات"
+  },
+  "sasHintSettingsDesc": {
+    "message": "شخصی سازی تنظیمات"
+  },
+  "sasPromoNewBadge": {
+    "message": "جدید"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice بهترین قیمت های موجود را برای محصول مورد نیازتان می یابد. در مرورگر تان قیمت ها را بررسی کنید، فروشگاه ها را مقایسه کنید، خوشنامی فروشنده را ارزیابی کنید، ویدیوی محصول را ببینید، و کالابرگ دریافت کنید."
+  },
+  "sasPromoAction": {
+    "message": "انگار خوب است. پیام را ببند!"
+  },
+  "sasPromoOptout": {
+    "message": "SafePrice غیر فعال باشد"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "هرگز کالابرگ ها را در این سایت نشان نده %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "SafePrice در %s تا 24 ساعت غیر فعال باشد"
+  },
+  "sasOptionsDisableAll": {
+    "message": "SafePrice در همه ی سایت ها تا 24 ساعت غیرفعال باشد"
+  },
+  "safeShopCoupons": {
+    "message": "%s کالابرگ"
+  },
+  "sasHintCoupons": {
+    "message": "دیدن کالابرگ ها"
+  },
+  "sasHintCouponsDesc": {
+    "message": "دیدن و ذخیره ی کالابرگ ها"
+  },
+  "sasCouponsTitle": {
+    "message": "%s کالابرگ موجود!"
+  },
+  "sasCouponsSaving": {
+    "message": "صرفه جویی تا %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "کد کالابرگ"
+  },
+  "sasClickToCopy": {
+    "message": "کلیک برای کپی کردن"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "شیوه ی بهره برداری از کوپن"
+  },
+  "sasNoCouponCode": {
+    "message": "نیازی به کد نیست"
+  },
+  "sasCouponCodeCopied": {
+    "message": "کد روی کلیپ بورد کپی شد."
+  }
+}

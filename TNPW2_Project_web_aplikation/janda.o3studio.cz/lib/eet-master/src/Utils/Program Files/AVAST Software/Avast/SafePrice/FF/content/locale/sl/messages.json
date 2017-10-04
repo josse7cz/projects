@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Najdena je nižja cena!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Najboljša ponudba je tukaj!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Prihranite %s %s na %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Naslednja ponudba %s na %s"
+  },
+  "safeShopOffers": {
+    "message": "%s ponudbe se pričnejo pri %s"
+  },
+  "sasShippingLabel": {
+    "message": "Poštnina in dostava iz"
+  },
+  "sasHintBestOffer": {
+    "message": "Najboljša ponudba"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Pojdi direktno na najboljšo ceno za ta produkt."
+  },
+  "sasHintOtherOffers": {
+    "message": "Primerjava cen"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Poglej ostale primerjane ponudbe"
+  },
+  "sasHintSettings": {
+    "message": "Nastavitve"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Tukaj si nastavite vaše uporabniške nastavitve"
+  },
+  "sasPromoNewBadge": {
+    "message": "Novo"
+  },
+  "sasProductName": {
+    "message": "Avast varni nakupi"
+  },
+  "sasPromoDescription": {
+    "message": "Funkcija Avast varni nakupi vam pomaga poiskati najboljšo ponudbo za vaš želen izdelek ali produkt. Preverite cene, primerjajte trgovine, preglejte mnenja strank, preverite verodostojnost trgovine, njen ugled, oglejte si video posnete izdelkov in produktov."
+  },
+  "sasPromoAction": {
+    "message": "Sliši se dobro, gremo po nakupih!"
+  },
+  "sasPromoOptout": {
+    "message": "Onemogoči VarnaCena"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Nikoli ne pokaži kuponov od %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Onemogoči Avast varni nakupi od %s za 24 ur"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Onemogoči Avast varni nakupi od vseh strani za 24 ur"
+  },
+  "safeShopCoupons": {
+    "message": "%s kuponov"
+  },
+  "sasHintCoupons": {
+    "message": "Prikaži kupone"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Prikaži in shrani kupone"
+  },
+  "sasCouponsTitle": {
+    "message": "%s kuponov je na voljo!"
+  },
+  "sasCouponsSaving": {
+    "message": "Prihranite do %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Koda kupona"
+  },
+  "sasClickToCopy": {
+    "message": "Kopiraj"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Navodila za unovčenje kupona"
+  },
+  "sasNoCouponCode": {
+    "message": "Koda za popust ni zahtevana"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Koda za popust je bila kopirana v odložišče."
+  }
+}

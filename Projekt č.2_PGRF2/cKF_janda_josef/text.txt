@@ -1,0 +1,3 @@
+Aplikace nástìnné hodiny.
+lze ovládat pomocí pohybu myši, dále klávesy "W" a "S" slouží pro zoom, "D" pro vypnutí a zaputí depth bufferu,
+"P"pro perspektivu a "M" pro pøepínání pohledù.

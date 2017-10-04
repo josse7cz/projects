@@ -1,0 +1,121 @@
+{block content}
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <h1>
+        Pokladna
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="/pokladna"><i class="fa fa-tablet"></i> Pokladna</a></li>
+        <li class="active">Pokladna</li>
+    </ol>
+</section>
+
+<!-- Main content -->
+<section class="content">
+
+    <div n:foreach="$flashes as $flash" n:class="alert, $flash->type, alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+        <h4><i class="icon fa fa-ban"></i> OK!</h4>
+        {$flash->message}
+    </div>
+    <div class="box">
+
+        {*<div class="box-body">
+            <a href='/pokladna/sklad/pridatzbozi' class="btn btn-app">
+                <i class="fa fa-star"></i> Přidat nové
+            </a>
+            <a href='/pokladna/sklad/import' class="btn btn-app">
+                <i class="fa fa-upload"></i> Import
+            </a>
+            <a href='/pokladna/sklad/export' class="btn btn-app">
+                <i class="fa fa-download"></i> Export
+            </a>
+        </div>*}
+        <!-- /.box-body -->
+    </div>
+    <div class="row">
+        <div class="col-lg-3 col-xs-6">
+            <!-- small box -->
+            <div class="small-box bg-aqua">
+                <div class="inner">
+                    <h3>{$celkem|number:2:',':' '}</h3>
+
+                    <p>Celkem</p>
+                </div>
+                <div class="icon">
+                    <i class="ion ion-bag"></i>
+                </div>
+            </div>
+        </div>
+        <!-- ./col -->
+        <div class="col-lg-3 col-xs-6">
+            <a href='/pokladna/prodej/pridatzbozi' class="btn btn-app">
+                <i class="fa fa-star"></i> Přidat
+            </a>
+
+            <a href='/pokladna/prodej/platba' class="btn btn-app">
+                <i class="fa fa-money"></i> Přejít k platbě
+            </a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="box">
+                <div class="box-header with-border">
+                    <h3 class="box-title">Seznam zboží</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <table class="table table-bordered">
+                        <tr>
+                            <th style="width: 10px">#</th>
+                            <th>Název</th>
+                            <th>Cena / j.</th>
+                            <th>Množství</th>
+                            <th>Cena celkem</th>
+                            <th style="width: 40px">Akce</th>
+                        </tr>
+                        {foreach $zbozi as $produkt}
+                            <tr>
+                                <td>{$iterator->counter}.</td>
+                                <td> {$produkt->name}</td>
+                                <td>
+                                    {$produkt->price|number:'2':',':' '}
+                                </td>
+                                <td>
+                                    <input class="autochange" data-bid="{$produkt->bid}" type="text" value="{$produkt->amount|number:'3':',':' '}" id="amount{$produkt->bid}" /><button onclick="zmenMnozstvi({$produkt->bid})">Změnit</button>
+                                </td>
+                                <td>
+                                    {$produkt->amount * $produkt->price|number:'2':',':' '}
+                                </td>
+                                <td><a class="btn btn-reddit" href='/pokladna/prodej/odebrat/{$produkt->bid}'>Odebrat</a></td>
+                            </tr>
+                        {/foreach}
+                    </table>
+                </div>
+            </div>
+            <!-- /.box -->
+        </div>
+        <!-- /.box -->
+    </div>
+</section>
+<!-- /.content -->
+{/block}
+{block scriptsExtra}
+<script n:syntax="off">
+    $(document).ready(function () {
+
+        $('.autochange').keypress(function (e) {
+            if (e.which == 13) {
+                zmenMnozstvi($(this).attr("data-bid"));
+                return false;
+            }
+        });
+    });
+    function zmenMnozstvi(id)
+    {
+        location.href = "?bid=" + id + "&newamount=" + $("#amount" + id).val();
+    }
+</script>
+{/block}

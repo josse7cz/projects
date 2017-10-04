@@ -1,0 +1,49 @@
+{block content}
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <h1>
+        Sklad
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="/pokladna"><i class="fa fa-tablet"></i> Sklad</a></li>
+        <li><a href="/pokladna/sklad">Sklad</a></li>
+        <li class="active">Upravit</li>
+    </ol>
+</section>
+
+<!-- Main content -->
+<section class="content">
+
+    <div n:foreach="$flashes as $flash" n:class="alert, $flash->type, alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+        <h4><i class="icon fa fa-ban"></i> OK!</h4>
+        {$flash->message}
+    </div>
+    <!-- form start -->
+    <form  n:name="upravitZboziForm" role="form">
+        <input n:name="id" value="{$produkt->id}" />
+        <div class="box-body">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Název</label>
+                <input n:name="name"  type="text" class="form-control" id="exampleInputEmail1" placeholder="název" value="{$produkt->name}">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Cena</label>
+                <input  n:name="price" class="form-control" id="exampleInputEmail1" placeholder="cena" value="{$produkt->price}">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputAmount">Množství</label>
+                <input  n:name="amount" class="form-control" id="exampleInputEmail1" placeholder="množství" value="{$produkt->amount}">
+            </div>
+        </div>
+        <!-- /.box-body -->
+
+        <div class="box-footer">
+            <button n:name="submit" type="submit" class="btn btn-primary">Upravit zboží</button>
+        </div>
+    </form>
+</div>
+<!-- /.box -->
+
+</section>
+<!-- /.content -->

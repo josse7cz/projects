@@ -1,0 +1,60 @@
+{block content}
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <h1>
+        Prodej - Přidat
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="/pokladna"><i class="fa fa-tablet"></i> Pokladna</a></li>
+        <li class="active"><a href="/pokladna/prodej/">Prodej</a></li>
+        <li class="active">Přidat</li>
+    </ol>
+</section>
+
+<!-- Main content -->
+<section class="content">
+
+    <div n:foreach="$flashes as $flash" n:class="alert, $flash->type, alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+        <h4><i class="icon fa fa-ban"></i> OK!</h4>
+        {$flash->message}
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="box">
+                <div class="box-header with-border">
+                    <h3 class="box-title">Seznam zboží</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <table class="table table-bordered">
+                        <tr>
+                            <th style="width: 10px">#</th>
+                            <th>Název</th>
+                            <th>Cena</th>
+                            <th>Na skladě</th>
+                            <th style="width: 40px">Akce</th>
+                        </tr>
+                        {foreach $zbozi as $produkt}
+                            <tr>
+                                <td>{$iterator->counter}.</td>
+                                <td> {$produkt->name}</td>
+                                <td>
+                                     {$produkt->price|number:'2':',':' '}
+                                </td>
+                                <td>
+                                     {$produkt->amount|number:'3':',':' '}
+                                </td>
+                                <td><a class="btn btn-reddit" href='/pokladna/prodej/vybrat/{$produkt->id}'>Přidat</a></td>
+                            </tr>
+                        {/foreach}
+                    </table>
+                </div>
+            </div>
+            <!-- /.box -->
+        </div>
+        <!-- /.box -->
+    </div>
+</section>
+<!-- /.content -->
+

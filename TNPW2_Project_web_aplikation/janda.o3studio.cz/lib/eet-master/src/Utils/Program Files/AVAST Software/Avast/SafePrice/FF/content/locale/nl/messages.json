@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Er zijn lagere prijzen gevonden!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Dit is het beste aanbod!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Bespaar %s %s op %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Volgende aanbod %s op %s"
+  },
+  "safeShopOffers": {
+    "message": "%s aanbiedingen vanaf %s"
+  },
+  "sasShippingLabel": {
+    "message": "Verpakkings-/verzendkosten vanaf"
+  },
+  "sasHintBestOffer": {
+    "message": "Beste aanbod"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Ga direct naar de beste prijs voor dit product."
+  },
+  "sasHintOtherOffers": {
+    "message": "Prijzen vergelijken"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Meer vergelijkbare aanbiedingen weergeven"
+  },
+  "sasHintSettings": {
+    "message": "Instellingen"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Hier kunt u uw instellingen aanpassen"
+  },
+  "sasPromoNewBadge": {
+    "message": "Nieuw"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice zoekt de beste aanbiedingen voor het product dat u wilt aanschaffen. Controleer prijzen, vergelijk winkels, lees recensies van andere klanten, trek de reputatie van de handelaar na, bekijk productvideo's en bestel waardebonnen vanuit uw webbrowser."
+  },
+  "sasPromoAction": {
+    "message": "Klinkt goed. Sluit dit bericht"
+  },
+  "sasPromoOptout": {
+    "message": "SafePrice uitschakelen"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Geen waardebonnen weergeven op %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "SafePrice 24 uur uitschakelen op %s"
+  },
+  "sasOptionsDisableAll": {
+    "message": "SafePrice 24 uur uitschakelen op alle sites"
+  },
+  "safeShopCoupons": {
+    "message": "%s waardebonnen"
+  },
+  "sasHintCoupons": {
+    "message": "Waardebonnen weergeven"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Waardebonnen weergeven en opslaan"
+  },
+  "sasCouponsTitle": {
+    "message": "%s waardebonnen beschikbaar"
+  },
+  "sasCouponsSaving": {
+    "message": "Tot %s besparen"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Waardeboncode"
+  },
+  "sasClickToCopy": {
+    "message": "Klik hier om te kopiëren"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Waardebon inwisselen - instructies"
+  },
+  "sasNoCouponCode": {
+    "message": "Geen code vereist"
+  },
+  "sasCouponCodeCopied": {
+    "message": "De code is naar het klembord gekopieerd."
+  }
+}

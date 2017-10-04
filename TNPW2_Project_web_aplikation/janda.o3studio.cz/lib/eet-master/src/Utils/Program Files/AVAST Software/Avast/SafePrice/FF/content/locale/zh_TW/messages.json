@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "找到更低的價格！"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "最佳報價在此！"
+  },
+  "safeShopBestButtonSave": {
+    "message": "省下 %s %s 在 %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "下一個報價 %s 在 %s"
+  },
+  "safeShopOffers": {
+    "message": "%s 個報價，%s 起"
+  },
+  "sasShippingLabel": {
+    "message": "運費與手續費從"
+  },
+  "sasHintBestOffer": {
+    "message": "最佳報價"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "直接前往此產品的最佳價格"
+  },
+  "sasHintOtherOffers": {
+    "message": "比較價格"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "檢視其他相仿的報價"
+  },
+  "sasHintSettings": {
+    "message": "設定"
+  },
+  "sasHintSettingsDesc": {
+    "message": "在此自訂您的設定"
+  },
+  "sasPromoNewBadge": {
+    "message": "全新"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice 會為您想要的產品找到最划算的交易。您可以直接在您的瀏覽器中檢查價格、比較商店、檢視客戶評論、確認零售商評價、觀看產品影片及取得優惠券。"
+  },
+  "sasPromoAction": {
+    "message": "聽起來不錯，關閉此訊息"
+  },
+  "sasPromoOptout": {
+    "message": "停用 SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "永遠不要顯示 %s 的優惠券"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "在 %s 上將 SafePrice 停用 24 小時"
+  },
+  "sasOptionsDisableAll": {
+    "message": "在所有網站上將 SafePrice 停用 24 小時"
+  },
+  "safeShopCoupons": {
+    "message": "%s 折價券"
+  },
+  "sasHintCoupons": {
+    "message": "查看折價券"
+  },
+  "sasHintCouponsDesc": {
+    "message": "查看折價券並節省"
+  },
+  "sasCouponsTitle": {
+    "message": "有 %s 個折價券！"
+  },
+  "sasCouponsSaving": {
+    "message": "最多節省 %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "折價券代碼"
+  },
+  "sasClickToCopy": {
+    "message": "按一下以複製"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "兌換折價券的說明"
+  },
+  "sasNoCouponCode": {
+    "message": "不需要代碼"
+  },
+  "sasCouponCodeCopied": {
+    "message": "代碼已複製到剪貼簿。"
+  }
+}

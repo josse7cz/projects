@@ -1,0 +1,12 @@
+parameters:
+
+
+database:
+	dsn: 'mysql:host=wm112.wedos.net;dbname=d165930_1'
+	user: 'w165930_1'
+	password: 'asdfasdf4=D'
+	options:
+		lazy: yes
+
+#a165930_1
+#k6hsGPBpSI+

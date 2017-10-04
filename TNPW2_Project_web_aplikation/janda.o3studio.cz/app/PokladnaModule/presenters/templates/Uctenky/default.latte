@@ -1,0 +1,54 @@
+{block content}
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <h1>
+        Sklad
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="/pokladna"><i class="fa fa-tablet"></i> Účtenky</a></li>
+        <li class="active">Účtenky</li>
+    </ol>
+</section>
+
+<!-- Main content -->
+<section class="content">
+
+    <div n:foreach="$flashes as $flash" n:class="alert, $flash->type, alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+        <h4><i class="icon fa fa-ban"></i> OK!</h4>
+        {$flash->message}
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="box">
+                <div class="box-header with-border">
+                    <h3 class="box-title">Seznam účtenek</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <table class="table table-bordered">
+                        <tr>
+                            <th style="width: 10px">#</th>
+                            <th>Datum a čas</th>
+                            <th>Celkem</th>
+                            <th style="width: 40px">Akce</th>
+                        </tr>
+                        {foreach $receipts as $receipt}
+                            <tr>
+                                <td>{$iterator->counter}</td>
+                                <td>{$receipt->datetime->format("d.m.Y H:i")}.</td>
+                                <td>{$receipt->celkem|number:'2':',':' '}</td>
+                                <td><a class="btn btn-reddit" href='/pokladna/prodej/hotovo/{$receipt->id}'><i class="fa fa-pagelines"></i> detail</a></td>
+                            </tr>
+                        {/foreach}
+                    </table>
+                </div>
+            </div>
+            <!-- /.box -->
+        </div>
+        <!-- /.box -->
+    </div>
+</section>
+<!-- /.content -->
+

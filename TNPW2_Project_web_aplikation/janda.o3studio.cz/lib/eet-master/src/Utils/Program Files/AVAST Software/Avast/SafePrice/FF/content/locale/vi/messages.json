@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Tìm thấy giá thấp hơn!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Giá tốt nhất ở đây!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Tiết kiệm %s %s trên %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Ưu đãi kế tiếp %s trên %s"
+  },
+  "safeShopOffers": {
+    "message": "%s ưu đãi bắt đầu từ %s"
+  },
+  "sasShippingLabel": {
+    "message": "S/H từ"
+  },
+  "sasHintBestOffer": {
+    "message": "Ưu đãi tốt nhất"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Trực tiếp đến giá tốt nhất cho sản phẩm này."
+  },
+  "sasHintOtherOffers": {
+    "message": "So sánh giá"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Xem các ưu đãi tương đương khác"
+  },
+  "sasHintSettings": {
+    "message": "Thiết lập"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Tùy chỉnh các thiết lập tại đây"
+  },
+  "sasPromoNewBadge": {
+    "message": "Mới"
+  },
+  "sasProductName": {
+    "message": "Giá Tốt"
+  },
+  "sasPromoDescription": {
+    "message": "Giá Tốt dò tìm giá tốt nhất cho sản phẩm mong muốn của bạn. Kiểm tra giá, so sánh cửa hàng, duyệt bình luận người dùng, xác thực danh tiếng nhà cung cấp, xem video sản phẩm và nhận các mã khuyến mãi ngay trong trình duyệt của bạn."
+  },
+  "sasPromoAction": {
+    "message": "Tốt, đóng thông điệp này lại"
+  },
+  "sasPromoOptout": {
+    "message": "Tắt Giá Tốt"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Không bao giờ hiển thị mã khuyễn mãi trên %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Tắt Giá Tốt trên %s trong 24 giờ"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Tắt Giá Tốt trên tất cả trang trong 24 giờ"
+  },
+  "safeShopCoupons": {
+    "message": "%s phiếu giảm giá"
+  },
+  "sasHintCoupons": {
+    "message": "Xem phiếu giảm giá"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Xem phiếu giảm giá & lưu"
+  },
+  "sasCouponsTitle": {
+    "message": "%s phiếu giảm giá hiện có!"
+  },
+  "sasCouponsSaving": {
+    "message": "Tiết kiệm tới %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Mã phiếu giảm giá"
+  },
+  "sasClickToCopy": {
+    "message": "Nhấp để sao chép"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Hướng dẫn để đổi phiếu giảm giá"
+  },
+  "sasNoCouponCode": {
+    "message": "Không mã nào được yêu cầu"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Mã đã được sao chép tới bộ nhớ tạm."
+  }
+}

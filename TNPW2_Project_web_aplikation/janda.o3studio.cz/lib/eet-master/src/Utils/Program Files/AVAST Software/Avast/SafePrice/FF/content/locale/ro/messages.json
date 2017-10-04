@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Am găsit prețuri mai mici!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Cea mai bună ofertă aici!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Salvez %s %s pe %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Următoarea ofertă %s pe %s"
+  },
+  "safeShopOffers": {
+    "message": "%s oferte începând de la %s"
+  },
+  "sasShippingLabel": {
+    "message": "T/M de la"
+  },
+  "sasHintBestOffer": {
+    "message": "Cea mai bună ofertă"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Du-te direct la cel mai bun preț pentru acest produs."
+  },
+  "sasHintOtherOffers": {
+    "message": "Compară prețurile"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Vezi alte oferte comparabile"
+  },
+  "sasHintSettings": {
+    "message": "Setări"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Personalizați-vă setările aici"
+  },
+  "sasPromoNewBadge": {
+    "message": "Nou"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice găsește cele mai bune oferte pentru produsul căutat. Verifică prețurile, compară magazinele, citește părerile clienților, verifică reputația vânzătorului, vizualizează filmele despre produs, și obține cupoane direct în navigator."
+  },
+  "sasPromoAction": {
+    "message": "Sună bine, închide acest mesaj!"
+  },
+  "sasPromoOptout": {
+    "message": "Dezactivează SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Nu afișa cupoanele pe %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Dezactivează SafePrice pe %s pentru 24 de ore"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Dezactivează SafePrice pe toate site-urile pentru 24 de ore"
+  },
+  "safeShopCoupons": {
+    "message": "%s coupoane"
+  },
+  "sasHintCoupons": {
+    "message": "Vizualizare cupoane"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Vizualizare cupoane & salvare"
+  },
+  "sasCouponsTitle": {
+    "message": "%s cupoane disponibile!"
+  },
+  "sasCouponsSaving": {
+    "message": "Salvați până la %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Cod cupon"
+  },
+  "sasClickToCopy": {
+    "message": "Clic pentru copiere"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Instrucțiuni pentru solicitarea de cupoane"
+  },
+  "sasNoCouponCode": {
+    "message": "Nu este necesar nici un cod"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Codul este copiat în clipboard."
+  }
+}

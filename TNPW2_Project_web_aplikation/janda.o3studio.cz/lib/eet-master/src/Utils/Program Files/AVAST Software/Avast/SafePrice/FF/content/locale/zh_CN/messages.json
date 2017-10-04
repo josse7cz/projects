@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "找到更低的价格!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "在此提供最低报价!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "节省 %s %s (在 %s 上)"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "下一个报价 %s (在 %s 上)"
+  },
+  "safeShopOffers": {
+    "message": "%s 个报价，最低为 %s"
+  },
+  "sasShippingLabel": {
+    "message": "S/H 来自"
+  },
+  "sasHintBestOffer": {
+    "message": "最低报价"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "直接转移至此产品的最佳价格。"
+  },
+  "sasHintOtherOffers": {
+    "message": "比价"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "了解其他可比较的报价"
+  },
+  "sasHintSettings": {
+    "message": "设置"
+  },
+  "sasHintSettingsDesc": {
+    "message": "在此自定义您的设置"
+  },
+  "sasPromoNewBadge": {
+    "message": "新功能"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice 查找所需产品的最低价码。检查价格、比较商店、阅读顾客评论、验证零售商信誉、观看产品视频并通过 Web 浏览器获取赠券。"
+  },
+  "sasPromoAction": {
+    "message": "听起来不错，请关闭此消息"
+  },
+  "sasPromoOptout": {
+    "message": "禁用 SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "禁止显示 %s 的赠券"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "对 %s 禁用 SafePrice 24 小时"
+  },
+  "sasOptionsDisableAll": {
+    "message": "对所有站点禁用 SafePrice 24 小时"
+  },
+  "safeShopCoupons": {
+    "message": "%s 个优惠券"
+  },
+  "sasHintCoupons": {
+    "message": "查看优惠券"
+  },
+  "sasHintCouponsDesc": {
+    "message": "查看优惠券并节省"
+  },
+  "sasCouponsTitle": {
+    "message": "可使用 %s 个优惠券！"
+  },
+  "sasCouponsSaving": {
+    "message": "最多节省 %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "优惠券代码"
+  },
+  "sasClickToCopy": {
+    "message": "单击复制"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "兑换优惠券的说明"
+  },
+  "sasNoCouponCode": {
+    "message": "不需要代码"
+  },
+  "sasCouponCodeCopied": {
+    "message": "已将代码复制到剪贴板。"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "การค้นหาราคาที่ถูกกว่า"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "ข้อเสนอที่ดีที่สุดที่นี่!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "ประหยัด %s %s บน %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "ข้อเสนอต่อไป %s บน %s"
+  },
+  "safeShopOffers": {
+    "message": "%s ข้อเสนอเริ่มที่ %s"
+  },
+  "sasShippingLabel": {
+    "message": "การส่ง/การจัดการจาก"
+  },
+  "sasHintBestOffer": {
+    "message": "ข้อเสนอที่ดีที่สุด"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "ตรงไปที่ราคาที่ดีที่สุดสำหรับสินค้านี้"
+  },
+  "sasHintOtherOffers": {
+    "message": "เปรียบเทียบราคา"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "ดูข้อเสนอเปรียบเทียบอื่นๆ"
+  },
+  "sasHintSettings": {
+    "message": "ตั้งค่า"
+  },
+  "sasHintSettingsDesc": {
+    "message": "ปรับแต่งการตั้งค่าของคุณที่นี่"
+  },
+  "sasPromoNewBadge": {
+    "message": "ใหม่"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice ค้นหาข้อเสนอที่ดีที่สุดสำหรับผลิตภัณฑ์ที่คุณต้องการ ตรวจสอบราคา เปรียบเทียบร้านค้า อ่านความคิดเห็นของลูกค้า ตรวจสอบชื่อเสียงของร้านค้าปลีก ดูวิดีโอผลิตภัณฑ์ และรับคูปองที่ถูกต้องในเว็บบราวเซอร์ของคุณ"
+  },
+  "sasPromoAction": {
+    "message": "ฟังดูดี ปิดข้อความนี้"
+  },
+  "sasPromoOptout": {
+    "message": "ปิดใช้งาน SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "ไม่ต้องแสดงคูปองบน %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "ปิดใช้งาน SafePrice บน %s เป็นเวลา 24 ชั่วโมง"
+  },
+  "sasOptionsDisableAll": {
+    "message": "ปิดใช้งาน SafePrice บนทุกเว็บไซต์เป็นเวลา 24 ชั่วโมง"
+  },
+  "safeShopCoupons": {
+    "message": "คูปองส่วนลด %s"
+  },
+  "sasHintCoupons": {
+    "message": "ดูคูปอง"
+  },
+  "sasHintCouponsDesc": {
+    "message": "ดูคูปอง & รับส่วนลด"
+  },
+  "sasCouponsTitle": {
+    "message": "มีคูปองส่วนลด %s !"
+  },
+  "sasCouponsSaving": {
+    "message": "ประหยัดได้มากถึง %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "รหัสคูปอง"
+  },
+  "sasClickToCopy": {
+    "message": "คลิกเพื่อทำสำเนา"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "คำแนะนำในการแลกคูปอง"
+  },
+  "sasNoCouponCode": {
+    "message": "ไม่ต้องใช้รหัส"
+  },
+  "sasCouponCodeCopied": {
+    "message": "คัดลอกรหัสไปยังคลิปบอร์ดแล้ว"
+  }
+}

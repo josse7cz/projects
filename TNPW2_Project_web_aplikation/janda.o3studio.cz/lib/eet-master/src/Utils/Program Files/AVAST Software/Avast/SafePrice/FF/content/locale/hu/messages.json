@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Alacsonyabb áron is elérhető!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "A legjobb ajánlat itt található!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Megspórolhat %s %s -t, itt %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "A következő ajánlat %s, itt %s"
+  },
+  "safeShopOffers": {
+    "message": "%s ajánlat, ettől kezdve %s"
+  },
+  "sasShippingLabel": {
+    "message": "SZ/K"
+  },
+  "sasHintBestOffer": {
+    "message": "Legjobb ajánlat"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Ugrás közvetlenül, a termékhez kapcsolódó legjobb árhoz."
+  },
+  "sasHintOtherOffers": {
+    "message": "Árak összehasonlítása"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "További hasonló ajánlatok megtekintése"
+  },
+  "sasHintSettings": {
+    "message": "Beállítások"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Itt testreszabhatja a beállításait"
+  },
+  "sasPromoNewBadge": {
+    "message": "Új"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "A SafePrice megtalálja Önnek a keresett termékhez kapcsolódó legjobb árajánlatokat. Ellenőrizheti az árakat, összehasonlíthatja a boltokat, elolvashatja a vásárlók véleményeit, megtudhatja, hogy megbízható-e a kereskedő, megnézheti a termékek videóit, és kuponokat kaphat a böngészőjén keresztül."
+  },
+  "sasPromoAction": {
+    "message": "Jól hangzik, zárja be ezt az üzenetet"
+  },
+  "sasPromoOptout": {
+    "message": "SafePrice kikapcsolása"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Sohase mutassa a kuponokat ezen a helyen: %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "A SafePrice kikapcsolása a következő 24 órában, ezen a helyen: %s"
+  },
+  "sasOptionsDisableAll": {
+    "message": "A SafePrice kikapcsolása a következő 24 órában, az összes webhelyen"
+  },
+  "safeShopCoupons": {
+    "message": "%s kupon"
+  },
+  "sasHintCoupons": {
+    "message": "Kuponok megtekintése"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Kuponok megtekintése és mentése"
+  },
+  "sasCouponsTitle": {
+    "message": "%s kupon áll rendelkezésre!"
+  },
+  "sasCouponsSaving": {
+    "message": "Spóroljon akár %s-t"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Kuponkód"
+  },
+  "sasClickToCopy": {
+    "message": "Kattintson a másoláshoz"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Útmutató a kupon beváltásához"
+  },
+  "sasNoCouponCode": {
+    "message": "Kód nem szükséges"
+  },
+  "sasCouponCodeCopied": {
+    "message": "A kód kimásolva a vágólapra."
+  }
+}

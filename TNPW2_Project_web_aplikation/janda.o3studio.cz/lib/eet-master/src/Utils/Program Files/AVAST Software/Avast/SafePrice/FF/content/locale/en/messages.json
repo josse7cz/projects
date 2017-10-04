@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Lower prices found!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Best offer here!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Save %s %s on %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Next offer %s on %s"
+  },
+  "safeShopOffers": {
+    "message": "%s offers starting %s"
+  },
+  "sasShippingLabel": {
+    "message": "S/H from"
+  },
+  "sasHintBestOffer": {
+    "message": "Best offer"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Go directly to the best price for this product."
+  },
+  "sasHintOtherOffers": {
+    "message": "Compare prices"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "See other comparable offers"
+  },
+  "sasHintSettings": {
+    "message": "Settings"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Customize your settings here"
+  },
+  "sasPromoNewBadge": {
+    "message": "New"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice finds the best deals for your wanted product. Check prices, compare shops, read customer reviews, verify retailer reputation, watch product videos, and get coupons right in your web browser."
+  },
+  "sasPromoAction": {
+    "message": "Sounds good, close this message"
+  },
+  "sasPromoOptout": {
+    "message": "Disable SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Never show coupons on %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Disable SafePrice on %s for 24 hours"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Disable SafePrice on all sites for 24 hours"
+  },
+  "safeShopCoupons": {
+    "message": "%s coupons"
+  },
+  "sasHintCoupons": {
+    "message": "View coupons"
+  },
+  "sasHintCouponsDesc": {
+    "message": "View coupons & save"
+  },
+  "sasCouponsTitle": {
+    "message": "%s coupons available!"
+  },
+  "sasCouponsSaving": {
+    "message": "Save up to %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Coupon code"
+  },
+  "sasClickToCopy": {
+    "message": "Click to copy"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Instructions to redeem coupon"
+  },
+  "sasNoCouponCode": {
+    "message": "No code required"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Code copied to clipboard."
+  }
+}

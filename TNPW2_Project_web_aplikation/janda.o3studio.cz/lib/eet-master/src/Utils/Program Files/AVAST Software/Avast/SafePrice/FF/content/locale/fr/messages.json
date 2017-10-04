@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Prix plus bas trouvés !"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Meilleure offre ici !"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Économiser %s %s sur %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Offre suivante %s sur %s"
+  },
+  "safeShopOffers": {
+    "message": "%s offres à partir de %s"
+  },
+  "sasShippingLabel": {
+    "message": "Livraison à partir de"
+  },
+  "sasHintBestOffer": {
+    "message": "Meilleure offre"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Aller directement à la meilleure offre pour ce produit."
+  },
+  "sasHintOtherOffers": {
+    "message": "Comparer les prix"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Voir les offres comparables"
+  },
+  "sasHintSettings": {
+    "message": "Paramètres"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Personnaliser vos paramètres ici"
+  },
+  "sasPromoNewBadge": {
+    "message": "Nouveau"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice trouve les meilleures offres pour le produit que vous voulez. Vérifiez les prix, comparez les boutiques, lisez les évaluations des clients, vérifiez la réputation des revendeurs, regardez les vidéos des produits et obtenez des coupons directement dans votre navigateur."
+  },
+  "sasPromoAction": {
+    "message": "Ça paraît bien, fermer ce message !"
+  },
+  "sasPromoOptout": {
+    "message": "Désactiver SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Ne jamais afficher les coupons sur %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Désactiver SafePrice sur %s pendant 24 heures"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Désactiver SafePrice sur tous les sites pendant 24 heures"
+  },
+  "safeShopCoupons": {
+    "message": "%s coupons"
+  },
+  "sasHintCoupons": {
+    "message": "Afficher les coupons"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Afficher les coupons et économiser"
+  },
+  "sasCouponsTitle": {
+    "message": "%s coupons disponibles !"
+  },
+  "sasCouponsSaving": {
+    "message": "Économiser jusqu'à %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Code de coupon"
+  },
+  "sasClickToCopy": {
+    "message": "Cliquer pour copier"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Instructions pour utiliser le coupon"
+  },
+  "sasNoCouponCode": {
+    "message": "Aucun code n'est nécessaire"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Code copié dans le presse-papier."
+  }
+}

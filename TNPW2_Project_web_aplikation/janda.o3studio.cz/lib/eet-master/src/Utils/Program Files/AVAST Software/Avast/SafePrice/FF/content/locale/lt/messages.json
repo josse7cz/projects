@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "rastos mažesnės kainos!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Geriausias pasiūlymas čia!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Sutaupyti %s %s su %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Kitas pasiūlymas %s %s"
+  },
+  "safeShopOffers": {
+    "message": "%s pasiūlymai, prasidedantys %s"
+  },
+  "sasShippingLabel": {
+    "message": "S/T iš"
+  },
+  "sasHintBestOffer": {
+    "message": "Geriausias pasiūlymas"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Pereiti prie geriausios šio produkto kainos."
+  },
+  "sasHintOtherOffers": {
+    "message": "Palyginti kainas"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Žiūrėti kitus lyginamus pasiūlymus"
+  },
+  "sasHintSettings": {
+    "message": "Nustatymai"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Derinkite savo nustatymus čia"
+  },
+  "sasPromoNewBadge": {
+    "message": "Nauja"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice randa geriausius jūsų ieškomo produkto pasiūlymus. Tikrinkite kainas, lyginkite parduotuves, skaitykite atsiliepimus, patikrinkite mažmenininko reputaciją, žiūrėkite produktų video, ir gaukite kuponus tiesiai į savo naršyklę."
+  },
+  "sasPromoAction": {
+    "message": "Skamba neblogai, užverti šį pranešimą"
+  },
+  "sasPromoOptout": {
+    "message": "Uždrausti SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Niekada nerodyti %s kuponų"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Išjungti SafePrice %s 24 valandoms"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Išjungti SafePrice visiems puslapiapiams 24 valandoms"
+  },
+  "safeShopCoupons": {
+    "message": "%s kuponų"
+  },
+  "sasHintCoupons": {
+    "message": "Žiūrėti kuponus"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Žiūrėti kuponus ir išsaugoti"
+  },
+  "sasCouponsTitle": {
+    "message": "%s pasiekiamų kuponų!"
+  },
+  "sasCouponsSaving": {
+    "message": "Išsaugoti iki %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Kupono kodas"
+  },
+  "sasClickToCopy": {
+    "message": "Spragtelėkite nukopijuoti"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Instrukcijos kupono išpirkimui"
+  },
+  "sasNoCouponCode": {
+    "message": "No code required"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Code copied to clipboard."
+  }
+}

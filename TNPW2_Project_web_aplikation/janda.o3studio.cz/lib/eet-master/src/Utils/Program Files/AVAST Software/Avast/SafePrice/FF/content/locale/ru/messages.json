@@ -1,0 +1,92 @@
+{
+  "safeShopBestTitleCheaperFound": {
+    "message": "Найдены более низкие цены!"
+  },
+  "safeShopBestTitleBestHere": {
+    "message": "Лучшее предложение!"
+  },
+  "safeShopBestButtonSave": {
+    "message": "Сэкономьте %s %s на %s"
+  },
+  "safeShopBestButtonNextOffer": {
+    "message": "Следующее предложение: %s на %s"
+  },
+  "safeShopOffers": {
+    "message": "%s предлагает начальную цену %s"
+  },
+  "sasShippingLabel": {
+    "message": "Доставка и обработка от"
+  },
+  "sasHintBestOffer": {
+    "message": "Лучшее предложение"
+  },
+  "sasHintBestOfferDesc": {
+    "message": "Перейти к лучшему предложению для данного продукта."
+  },
+  "sasHintOtherOffers": {
+    "message": "Сравнить цены"
+  },
+  "sasHintOtherOffersDesc": {
+    "message": "Другие сопоставимые предложения"
+  },
+  "sasHintSettings": {
+    "message": "Настройки"
+  },
+  "sasHintSettingsDesc": {
+    "message": "Здесь можно настроить параметры"
+  },
+  "sasPromoNewBadge": {
+    "message": "Новое"
+  },
+  "sasProductName": {
+    "message": "SafePrice"
+  },
+  "sasPromoDescription": {
+    "message": "SafePrice находит лучшие предложения продукта, который вас интересует. Проверяйте цены, читайте отзывы покупателей, проверяйте репутацию магазина, смотрите видео по продукту и получайте купоны прямо из браузера."
+  },
+  "sasPromoAction": {
+    "message": "Отлично, закрыть сообщение!"
+  },
+  "sasPromoOptout": {
+    "message": "Отключить SafePrice"
+  },
+  "sasOptionsNeverShowOnSite": {
+    "message": "Не показывать купоны на сайте %s"
+  },
+  "sasOptionsDisableOnSite": {
+    "message": "Отключить SafePrice на сайте %s на 24 часа"
+  },
+  "sasOptionsDisableAll": {
+    "message": "Отключить SafePrice на всех сайтах на 24 часа"
+  },
+  "safeShopCoupons": {
+    "message": "%s купонов"
+  },
+  "sasHintCoupons": {
+    "message": "Просмотр купонов"
+  },
+  "sasHintCouponsDesc": {
+    "message": "Просмотр и сохранение купонов"
+  },
+  "sasCouponsTitle": {
+    "message": "Доступно %s купонов!"
+  },
+  "sasCouponsSaving": {
+    "message": "Экономия до %s"
+  },
+  "sasCouponCodeTitle": {
+    "message": "Код купона"
+  },
+  "sasClickToCopy": {
+    "message": "Щелкните здесь для копирования"
+  },
+  "sasCouponInstructionsTitle": {
+    "message": "Инструкции по активации купона"
+  },
+  "sasNoCouponCode": {
+    "message": "Код не требуется"
+  },
+  "sasCouponCodeCopied": {
+    "message": "Код скопирован в буфер обмена."
+  }
+}
