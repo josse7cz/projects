@@ -1,1 +1,0 @@
-[2017-07-01 19-24-19] Nette\InvalidArgumentException: Table 'users' does not exist. in /data/web/virtuals/165930/virtual/www/subdom/janda/vendor/nette/database/src/Database/Structure.php:282  @  http://janda.o3studio.cz/sign/in  @@  exception--2017-07-01--19-24--03c31387ee.html
